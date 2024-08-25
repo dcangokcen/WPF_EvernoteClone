@@ -8,7 +8,8 @@
         xmlns:uc="clr-namespace:EvernoteClone.View.UserControls"
         xmlns:vm="clr-namespace:EvernoteClone.ViewModel"
         mc:Ignorable="d"
-        Title="NotesWindow" Height="450" Width="800">
+        Title="Notes" 
+        Icon="icons8_notebook_80_jFG_icon.ico" Height="450" Width="800">
     <Window.Resources>
         <ResourceDictionary>
             <vm:NotesVM x:Key="vm"/>
